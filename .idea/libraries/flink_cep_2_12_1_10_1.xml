@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flink-cep_2.12-1.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../flink-cep_2.12-1.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
